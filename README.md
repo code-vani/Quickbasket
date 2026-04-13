@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛒 QuickBasket - Full Stack Grocery Management System
 
 QuickBasket is a modern full-stack grocery management platform built using **Next.js**. It provides a seamless experience for users, admins, and delivery partners with powerful features like real-time tracking and AI integration.
@@ -141,3 +142,6 @@ If you like this project, give it a ⭐ on GitHub!
 ---
 
 Made with ❤️ using Next.js
+=======
+# Quickbasket
+>>>>>>> 33383c5f9d6bef86fcc3a2f8d92b21c88c50d504
